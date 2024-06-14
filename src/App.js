@@ -12,7 +12,7 @@ function App() {
     )
   })
   return (
-    <div onClick={clickHandler} className="ap">
+    <div onClick={clickHandler} className="app">
       {positions}
     </div>
   );
